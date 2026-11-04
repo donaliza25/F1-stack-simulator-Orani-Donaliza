@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 class Stack {
     constructor() {
         this.items = []
@@ -91,7 +89,6 @@ $(document).ready(function(){
     // $("#stack").prepend(`<div class="row bg-success push">${stack.push(200)[0]}</div>`);
     // $("#stack").prepend(`<div class="row bg-primary push">${stack.push(300)[0]}</div>`);
     // $("#stack").prepend(`<div class="row bg-success push">${stack.push(400)[0]}</div>`);
-=======
 
 class Stack {
     constructor() {
@@ -163,5 +160,4 @@ $(document).ready(function(){
     $("#stack").prepend(`<div class="row bg-success push">${stack.push(200)[0]}</div>`);
     $("#stack").prepend(`<div class="row bg-primary push">${stack.push(300)[0]}</div>`);
     $("#stack").prepend(`<div class="row bg-success push">${stack.push(400)[0]}</div>`);
->>>>>>> 3248aff098a038c23c675a8a8667d88b4f278a90
 });
